@@ -10,7 +10,7 @@ const Login = () => {
         alt="logo"
       />
       {/* Login with Spotify Login Button */}
-      <a> LOGIN WITH SPOTIFY</a>
+      <a href="/">LOGIN WITH SPOTIFY</a>
     </div>
   )
 }
